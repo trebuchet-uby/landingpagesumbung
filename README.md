@@ -1,6 +1,6 @@
-# webstatissumbung
-- Draff Single Landing Page Website Desa Sumbung Tahun 2023
-- Percobaan Landing tertaut ke Web Desa Sumbung Tahun 2024
+# Landing Page Desa Sumbung
+- Draff Single Landing Page Website Desa (Tahun 2023)
+- Landing Page tertaut ke Website (Tahun 2024)
 
 # Template
 Boostrapmade
